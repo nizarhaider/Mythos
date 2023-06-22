@@ -5,10 +5,10 @@ import { FaBriefcase } from 'react-icons/fa';
 const experiences = [
   {
     "position": "UTM",
-    "company": "Mechanical Engineering",
+    "company": "University of Technology Malaysia",
     "location": "Johor Bahru, MY",
     "date": "2019 - 2023",
-    "description": "3D Modelling, Solidworks, Matlab, Python, C++, Arduino, Raspberry Pi"
+    "description": "Python, Machine Learning, Data Science, SQL"
   },
   {
     "position": "Wycherly International School",
